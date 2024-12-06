@@ -17,7 +17,7 @@
     "bcrypt": "^5.1.1",
     "chalk": "^5.3.0",
     "dotenv": "^16.4.5",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "mongoose": "^8.7.2"
